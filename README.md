@@ -121,5 +121,4 @@ Response:
   "total_requests": 18
 }
 ```
-Just tell me 👍
 
